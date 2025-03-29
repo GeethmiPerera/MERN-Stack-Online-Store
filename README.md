@@ -8,13 +8,11 @@ A **full-stack eCommerce website** built using the **MERN (MongoDB, Express, Rea
 
 ## ✨ Features
 
-✔️ **User Authentication** – Register/Login using JWT authentication  
+✔️ **User Authentication** – Register/Login 
 ✔️ **Product Browsing** – View all products with details  
-✔️ **Shopping Cart** – Add/remove products and manage cart  
-✔️ **Order Management** – Place orders and track them  
+✔️ **Shopping Cart** – Add/remove products and manage cart    
 ✔️ **Admin Panel** – Add, update, and manage products  
 ✔️ **RESTful APIs** – Secure API endpoints for product & user management  
-✔️ **Optimized Performance** – Fast API responses using caching & pagination  
 
 ---
 
@@ -22,6 +20,5 @@ A **full-stack eCommerce website** built using the **MERN (MongoDB, Express, Rea
 
 **Frontend:** React.js, HTML, CSS  
 **Backend:** Node.js, Express.js  
-**Database:** MongoDB (Mongoose ODM)  
-**Authentication:** JWT (JSON Web Token)  
+**Database:** MongoDB 
 **UI/UX Design:** Figma   
